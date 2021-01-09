@@ -1,5 +1,5 @@
 var ad = "Merve"
-var resitYas = 25;
+var resitYas = 30;
 var evlenecegiYas;
 
 debugger
